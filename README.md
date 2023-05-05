@@ -1,18 +1,13 @@
-# blogapp
+# Attendence Register application
 Full-Fledeged project. 
-# Blogging platform 👇
+# Registering platform 👇
 <hr/>
 <div >
-    <img src="/login.png" width="300px" height = "450px"</img>
-    <img src="/home.png" width="300px" height = "450px"</img>
-     <img src="/profile.png" width="300px" height = "450px"</img>
+    <img src="/register.png" width="300px" height = "450px"</img>
+    <img src="/mark.png" width="300px" height = "450px"</img>
+     <img src="/display.png" width="300px" height = "450px"</img>
 </div>
 <hr>
-<div >
-    <img src="/cat.png" width="300px" height = "450px"</img>
-    <img src="/ho.png" width="300px" height = "450px"</img>
-     <img src="/search.png" width="300px" height = "450px"</img>
-</div>
          
 <hr>
 
