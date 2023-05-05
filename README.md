@@ -1,16 +1,21 @@
-# attendance
+# blogapp
+Full-Fledeged project. 
+# Blogging platform 👇
+<hr/>
+<div >
+    <img src="/login.png" width="300px" height = "450px"</img>
+    <img src="/home.png" width="300px" height = "450px"</img>
+     <img src="/profile.png" width="300px" height = "450px"</img>
+</div>
+<hr>
+<div >
+    <img src="/cat.png" width="300px" height = "450px"</img>
+    <img src="/ho.png" width="300px" height = "450px"</img>
+     <img src="/search.png" width="300px" height = "450px"</img>
+</div>
+         
+<hr>
 
+<img align="center" width="500" alt="logo" src="https://user-images.githubusercontent.com/55774240/122635653-da725d80-d102-11eb-9208-4c8d8b4a1ac6.png" />
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
