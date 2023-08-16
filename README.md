@@ -1,5 +1,6 @@
 # Attendence Register application
-Full-Fledeged project. 
+Full-Fledeged project!                
+
 # Registering platform 👇
 <hr/>
 <div >
