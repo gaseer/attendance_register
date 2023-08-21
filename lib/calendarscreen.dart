@@ -17,7 +17,6 @@ class _CalendarScreenState extends State<CalendarScreen> {
   double screenWidth = 0;
   // Color primary = Color(0xFCEF444C);
   Color primary = Color.fromARGB(255, 37, 230, 134);
-
   String _month = DateFormat('dd MMM yyyy').format(DateTime.now());
 
   @override
