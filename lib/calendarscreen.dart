@@ -8,7 +8,6 @@ import 'package:month_year_picker/month_year_picker.dart';
 
 class CalendarScreen extends StatefulWidget {
   const CalendarScreen({super.key});
-
   @override
   State<CalendarScreen> createState() => _CalendarScreenState();
 }
@@ -16,7 +15,6 @@ class CalendarScreen extends StatefulWidget {
 class _CalendarScreenState extends State<CalendarScreen> {
   double screenHeight = 0;
   double screenWidth = 0;
-
   // Color primary = Color(0xFCEF444C);
   Color primary = Color.fromARGB(255, 37, 230, 134);
 
