@@ -4,8 +4,7 @@ Full-Fledeged project!
 
 # Registering platform 👇
 <hr/>
-<div >
-    
+<div>
     <img src="/register.png" width="300px" height = "450px"</img>
     <img src="/mark.png" width="300px" height = "450px"</img>
      <img src="/display.png" width="300px" height = "450px"</img>
