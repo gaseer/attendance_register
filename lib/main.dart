@@ -61,7 +61,6 @@ class _AuthCheckState extends State<AuthCheck> {
   void _getCurrentUser() async {
     WidgetsFlutterBinding.ensureInitialized();
     sharedPreferences = await SharedPreferences.getInstance();
-
     try {
       WidgetsFlutterBinding.ensureInitialized();
       if (sharedPreferences.getString('studentId') != null) {
