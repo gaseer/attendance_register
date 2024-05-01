@@ -15,7 +15,6 @@ Future<void> main() async {
           appId: "1:877132652663:android:8b41d863fef18e30726672",
           messagingSenderId: "XCVXCX",
           projectId: "attendance-8b778"));
-
   runApp(const MyApp());
 }
 
@@ -55,9 +54,7 @@ class _AuthCheckState extends State<AuthCheck> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
-
     _getCurrentUser();
   }
 
