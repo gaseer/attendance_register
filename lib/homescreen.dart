@@ -35,6 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
       _getProfilePic();
     });
   }
+  
 
   void _getCredentials() async {
     try {
