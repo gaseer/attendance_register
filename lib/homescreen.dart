@@ -37,7 +37,6 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
   
-
   void _getCredentials() async {
     try {
       DocumentSnapshot doc = await FirebaseFirestore.instance
